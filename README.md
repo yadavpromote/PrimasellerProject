@@ -8,7 +8,7 @@ Steps to run project:
 
 Example:  java -jar .\dist\PrimasellerProject.jar --books=.\\books.csv --sales=.\\sales.csv --top_selling_books=3 --top_customers=2 --sales_on_date=2018-08-01
 
-#Jar file can be downloaded for release section as well.  Follow steps given below-
+#Jar file can be downloaded from release section as well. Follow steps given below-
 1. Visit release section
 2. Download jar file from assets in 1.0.0 (Latest release) build.
 
